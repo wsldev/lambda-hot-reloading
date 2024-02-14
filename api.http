@@ -1,0 +1,30 @@
+@baseUrl=http://localhost:3000
+
+# @name getAgencyByID
+GET {{baseUrl}}/dev/hello
+    ?codAgencia=9073
+
+###
+# @name getAgencyByZipCode
+GET {{baseUrl}}/dev/hello
+    ?cep=04116120
+
+###
+# @name getAgenciesByLocation
+GET {{baseUrl}}/dev/hello
+    ?lat=-23.5613545
+    &long=-46.6564943
+
+###
+# @name getAgenciesByFilterExchange
+GET {{baseUrl}}/dev/hello
+    ?lat=-23.5613545
+    &long=-46.6564943
+    &cambio=true
+
+###
+# @name getAgenciesByFilterTypeAgency
+GET {{baseUrl}}/dev/hello
+    ?lat=-23.5613545
+    &long=-46.6564943
+    &tipoAgencia=varejo

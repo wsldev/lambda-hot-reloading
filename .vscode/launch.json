@@ -1,0 +1,21 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+   {
+    "name": "Debug",
+    "type": "node",
+    "request": "launch",
+    "cwd": "${workspaceRoot}/code",
+    "runtimeExecutable": "npm",
+    "preLaunchTask": "prepare app to debug",
+    "runtimeArgs": [
+      "run-script",
+      "debug:watch"
+    ],
+    "console": "integratedTerminal",
+    "restart": true,
+    "internalConsoleOptions": "neverOpen",
+    "port": 9229
+   }
+  ]
+ }

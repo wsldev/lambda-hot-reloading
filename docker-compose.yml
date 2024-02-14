@@ -1,0 +1,37 @@
+version: '3.7'
+
+services:
+  # localstack:
+  #   image: localstack/localstack:latest
+  #   environment:
+  #     # - SERVICES=lambda
+  #     - TZ=America/Sao_Paulo
+  #     # - LAMBDA_EXECUTOR=docker
+  #     - PROVIDER_OVERRIDE_STEPFUNCTIONS=v2
+  #     - LOCALSTACK_PERSISTENCE=1
+  #     - LOCALSTACK_HOSTNAME=localstack
+  #   ports:
+  #     - '4566:4566'
+  #   volumes:
+  #     - "${LOCALSTACK_VOLUME_DIR:-./volume}:/var/lib/localstack"
+  #     - /var/run/docker.sock:/var/run/docker.sock
+
+  # stepfunctions:
+  #   container_name: stepfunctions
+  #   image: amazon/aws-stepfunctions-local:latest
+  #   environment:
+  #     - LAMBDA_ENDPOINT=http://localstack:4566
+  #   ports:
+  #     - '8083:8083'
+  
+  redis:
+    image: redis/redis-stack-server:7.2.0-v6
+    ports:
+      - 6379:6379
+    healthcheck:
+      test: [ "CMD", "redis-cli", "--raw", "incr", "ping" ]
+    volumes:
+      - redis_data:/data
+
+volumes:
+  redis_data:

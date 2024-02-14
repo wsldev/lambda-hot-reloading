@@ -1,0 +1,31 @@
+{
+  "name": "lambda-hot-reloading",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+  "main": "index.js",
+    "start": "sls offline start | npm run build",
+    "start:dev": "npm run build | nodemon -e ts  --exec \"sls offline\"",
+    "build": "node esbuild.config.ts",
+    "build:watch": "esbuild index.ts --bundle --minify --sourcemap --platform=node --target=es2020 --outfile=dist/index.js --watch",
+    "debug": "set SLS_DEBUG=* && sls offline start --reloadHandler --noTimeout | npm run build",
+    "debug:watch": "set SLS_DEBUG=* && npm run start:dev -- --noTimeout",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/aws-lambda": "^8.10.133",
+    "@types/node": "^20.11.17",
+    "esbuild": "^0.20.0",
+    "nodemon": "^3.0.3",
+    "serverless-offline": "^13.3.3"
+  },
+  "dependencies": {
+    "@middy/core": "^5.2.4",
+    "@middy/do-not-wait-for-empty-event-loop": "^5.2.4",
+    "redis": "^4.6.13",
+    "zod": "^3.22.4"
+  }
+}

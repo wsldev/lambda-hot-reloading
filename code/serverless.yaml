@@ -1,0 +1,41 @@
+# serverless.yml
+service: myService
+
+plugins:
+  - serverless-offline
+
+provider:
+  name: aws
+  runtime: nodejs14.x
+  runtimeManagement: auto # optional, set how Lambda controls all functions runtime. AWS default is auto; this can either be 'auto' or 'onFunctionUpdate'. For 'manual', see example in hello function below (syntax for both is identical)
+  memorySize: 512 # optional, in MB, default is 1024
+  # timeout: 10 # optional, in seconds, default is 6
+  versionFunctions: false # optional, default is true
+  tracing:
+    lambda: true # optional, enables tracing for all functions (can be true (true equals 'Active') 'Active' or 'PassThrough')
+  environment:
+    REDIS_HOST: localhost
+
+functions:
+  hello:
+    handler: dist/index.handler # required, handler set in AWS Lambda
+    name: ${sls:stage}-lambdaName # optional, Deployed Lambda name
+    events:
+      - http:
+          path: hello
+          method: get
+    description: Description of what the lambda function does # optional, Description to publish to AWS
+    runtime: nodejs18.x # optional overwrite, default is provider runtime
+    runtimeManagement:
+      mode: auto # syntax required for manual, mode property also supports 'auto' or 'onFunctionUpdate' (see provider.runtimeManagement)
+      # arn: <aws runtime arn> # required when mode is manual
+    memorySize: 512 # optional, in MB, default is 1024
+    timeout: 10 # optional, in seconds, default is 6
+    provisionedConcurrency: 3 # optional, Count of provisioned lambda instances
+    reservedConcurrency: 5 # optional, reserved concurrency limit for this function. By default, AWS uses account concurrency limit
+    tracing: PassThrough # optional, overwrite, can be 'Active' or 'PassThrough'
+
+custom:
+  serverless-offline:
+    port: 3000
+    host: 0.0.0.0

@@ -1,0 +1,3713 @@
+    [
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 8577 - SP NOVA BELA VISTA",
+            "agencyAddress": "AV PAULISTA 1337 1343, BELA VISTA",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01311-200",
+            "agencyLocation": {
+                "lng": -46.654584,
+                "lat": -23.563009
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "0.3",
+            "agencyId": "8577"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 9073 - PERSONNALITE NOVA PTA",
+            "agencyAddress": "AV PAULISTA 1294, BELA VISTA",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01310-100",
+            "agencyLocation": {
+                "lng": -46.654215,
+                "lat": -23.563082
+            },
+            "type": "person",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "0.3",
+            "agencyId": "9073"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 3741 - PERSONNALITE PAULISTA",
+            "agencyAddress": "AV PAULISTA 1294, BELA VISTA",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01310-100",
+            "agencyLocation": {
+                "lng": -46.654175,
+                "lat": -23.563156
+            },
+            "type": "person",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "0.3",
+            "agencyId": "3741"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 0262 - SP AV PAULISTA",
+            "agencyAddress": "AV PAULISTA 1948, BELA VISTA",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01310-200",
+            "agencyLocation": {
+                "lng": -46.658829,
+                "lat": -23.559063
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "0.3",
+            "agencyId": "0262"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 9634 - PERSONNALITE CENTER 3",
+            "agencyAddress": "AV PAULISTA2064SUBS, BELA VISTA",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01310-928",
+            "agencyLocation": {
+                "lng": -46.659489,
+                "lat": -23.558452
+            },
+            "type": "person",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "0.4",
+            "agencyId": "9634"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 0367 - SP TRIANON",
+            "agencyAddress": "AV PAULISTA 1159 LOJA 1, CERQUEIRA CESAR",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01311-200",
+            "agencyLocation": {
+                "lng": -46.653224,
+                "lat": -23.564145
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "0.5",
+            "agencyId": "0367"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 8792 - SP SHOP CENTER 3",
+            "agencyAddress": "AV PAULISTA 2064, BELA VISTA",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01310-928",
+            "agencyLocation": {
+                "lng": -46.659616,
+                "lat": -23.558372
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "0.5",
+            "agencyId": "8792"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 7380 - PERSONNALITE SP B VISTA",
+            "agencyAddress": "R PEIXOTO GOMIDE 346, JD PAULISTA",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01409-000",
+            "agencyLocation": {
+                "lng": -46.655499,
+                "lat": -23.557045
+            },
+            "type": "person",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "0.5",
+            "agencyId": "7380"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 5590 - SP BELA VISTA",
+            "agencyAddress": "R PEIXOTO GOMIDE 346, JD PAULISTA",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01409-000",
+            "agencyLocation": {
+                "lng": -46.655525,
+                "lat": -23.556321
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "0.6",
+            "agencyId": "5590"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 7055 - PERSONNALITE PAULIST1000",
+            "agencyAddress": "AV PAULISTA 1000, BELA VISTA",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01310-100",
+            "agencyLocation": {
+                "lng": -46.651962,
+                "lat": -23.564926
+            },
+            "type": "person",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "0.6",
+            "agencyId": "7055"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 2977 - SP JARDINS",
+            "agencyAddress": "R PAMPLONA 1109, JD PAULISTA",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01405-001",
+            "agencyLocation": {
+                "lng": -46.656903,
+                "lat": -23.567004
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "0.6",
+            "agencyId": "2977"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 0845 - SP JARDIM AMERICA",
+            "agencyAddress": "RUA AUGUSTA 2638 2646, CERQUEIRA CESAR",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01412-100",
+            "agencyLocation": {
+                "lng": -46.664939,
+                "lat": -23.562633
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "0.9",
+            "agencyId": "0845"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 0036 - SP RUA DA CONSOLACAO",
+            "agencyAddress": "R DA CONSOLACAO 2279, CONSOLACAO",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01301-100",
+            "agencyLocation": {
+                "lng": -46.661167,
+                "lat": -23.554634
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "0.9",
+            "agencyId": "0036"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 0646 - SP NOVA PAULISTA",
+            "agencyAddress": "AV PAULISTA 688, BELA VISTA",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01310-100",
+            "agencyLocation": {
+                "lng": -46.649937,
+                "lat": -23.566703
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "0.9",
+            "agencyId": "0646"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 1618 - SP NOVA AUGUSTA",
+            "agencyAddress": "R AUGUSTA 796, CONSOLACAO",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01304-001",
+            "agencyLocation": {
+                "lng": -46.653476,
+                "lat": -23.552488
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "1.0",
+            "agencyId": "1618"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 9385 - PERSONNALITE OSC FREIRE",
+            "agencyAddress": "R OSCAR FREIRE 553 E 561, CERQUEIRA CESAR",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01426-001",
+            "agencyLocation": {
+                "lng": -46.666504,
+                "lat": -23.565287
+            },
+            "type": "person",
+            "time": {
+                "opening": "10:00",
+                "closure": "18:00"
+            },
+            "distance": "1.1",
+            "agencyId": "9385"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 4300 - SP METRO BRIGADEIRO",
+            "agencyAddress": "AV PAULISTA 459, PARAISO",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01311-000",
+            "agencyLocation": {
+                "lng": -46.648414,
+                "lat": -23.568142
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "1.1",
+            "agencyId": "4300"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 0068 - SP AUGUSTA",
+            "agencyAddress": "R AUGUSTA 2857, CERQUEIRA CESAR",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01413-100",
+            "agencyLocation": {
+                "lng": -46.668092,
+                "lat": -23.565684
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "1.3",
+            "agencyId": "0068"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 0188 - SP PAMPLONA",
+            "agencyAddress": "RUA ESTADOS UNIDOS 627, JD AMERICA",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01427-000",
+            "agencyLocation": {
+                "lng": -46.662545,
+                "lat": -23.572451
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "1.4",
+            "agencyId": "0188"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 9642 - PERSONNALITE PAMPLONA",
+            "agencyAddress": "R MAESTRO CHIAFARELLI54, JD PAULISTA",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01432-030",
+            "agencyLocation": {
+                "lng": -46.662514,
+                "lat": -23.572929
+            },
+            "type": "person",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "1.4",
+            "agencyId": "9642"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 3005 - PERSONNALITE EST UNIDOS",
+            "agencyAddress": "RUA ESTADOS UNIDOS 1721, JD AMERICA",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01427-002",
+            "agencyLocation": {
+                "lng": -46.670433,
+                "lat": -23.565409
+            },
+            "type": "person",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "1.5",
+            "agencyId": "3005"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 0251 - SP BRIGADEIRO",
+            "agencyAddress": "AV BRIG LUIZ ANTON 1030, BELA VISTA",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01318-001",
+            "agencyLocation": {
+                "lng": -46.640991,
+                "lat": -23.557749
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "1.6",
+            "agencyId": "0251"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 9097 - PERSONNALITE PCA B AIRES",
+            "agencyAddress": "AV ANGELICA 1596, HIGIENOPOLIS",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01228-100",
+            "agencyLocation": {
+                "lng": -46.658199,
+                "lat": -23.546701
+            },
+            "type": "person",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "1.6",
+            "agencyId": "9097"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 0190 - SP BAIRRO PARAISO",
+            "agencyAddress": "PCA OSWALDO CRUZ 143, PARAISO",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "04004-070",
+            "agencyLocation": {
+                "lng": -46.644552,
+                "lat": -23.571459
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "1.7",
+            "agencyId": "0190"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 0161 - SP JARDIM PAULISTA",
+            "agencyAddress": "AV BRIG LUIZ ANTON 3595, JD PAULISTA",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01401-001",
+            "agencyLocation": {
+                "lng": -46.658078,
+                "lat": -23.576251
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "1.7",
+            "agencyId": "0161"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 6241 - PERSONNALITE PARAISO",
+            "agencyAddress": "PCA OSWALDO CRUZ 113, PARAISO",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "04004-070",
+            "agencyLocation": {
+                "lng": -46.644386,
+                "lat": -23.571672
+            },
+            "type": "person",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "1.7",
+            "agencyId": "6241"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 0189 - SP PCA ROOSEVELT",
+            "agencyAddress": "R DA CONSOLACAO 480, CONSOLACAO",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01302-000",
+            "agencyLocation": {
+                "lng": -46.64634,
+                "lat": -23.547008
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "1.9",
+            "agencyId": "0189"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 0186 - SP HIGIENOPOLIS",
+            "agencyAddress": "AV HIGIENOPOLIS 462, HIGIENOPOLIS",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01238-000",
+            "agencyLocation": {
+                "lng": -46.655173,
+                "lat": -23.544163
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "1.9",
+            "agencyId": "0186"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 3756 - PERSONNALITE HIGIENOPOL",
+            "agencyAddress": "AV HIGIENOPOLIS 462 1AND, HIGIENOPOLIS",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01238-000",
+            "agencyLocation": {
+                "lng": -46.656347,
+                "lat": -23.543676
+            },
+            "type": "person",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "2.0",
+            "agencyId": "3756"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 0061 - SP AV ANGELICA",
+            "agencyAddress": "AV ANGELICA 1170, HIGIENOPOLIS",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01228-100",
+            "agencyLocation": {
+                "lng": -46.656338,
+                "lat": -23.542934
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "2.0",
+            "agencyId": "0061"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 1664 - SP CLINICAS",
+            "agencyAddress": "R TEOD SAMPAIO 745, PINHEIROS",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "05405-050",
+            "agencyLocation": {
+                "lng": -46.677312,
+                "lat": -23.557388
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "2.2",
+            "agencyId": "1664"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 2944 - SP CHARLES MILLER",
+            "agencyAddress": "AV PACAEMBU 1947, PACAEMBU",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01234-001",
+            "agencyLocation": {
+                "lng": -46.665358,
+                "lat": -23.543053
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "2.2",
+            "agencyId": "2944"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 3754 - PERSONNALITE PACAEMBU",
+            "agencyAddress": "PCA CHARLES MILLER 12, PACAEMBU",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01234-010",
+            "agencyLocation": {
+                "lng": -46.665609,
+                "lat": -23.543145
+            },
+            "type": "person",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "2.2",
+            "agencyId": "3754"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 4100 - PERSONNALITE TUTOIA",
+            "agencyAddress": "R TUTOIA 1160 PS, PARAISO",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "04007-005",
+            "agencyLocation": {
+                "lng": -46.650101,
+                "lat": -23.580795
+            },
+            "type": "person",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "2.3",
+            "agencyId": "4100"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 0740 - SP RUA TUTOIA",
+            "agencyAddress": "R TUTOIA 1160, PARAISO",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "04007-005",
+            "agencyLocation": {
+                "lng": -46.649944,
+                "lat": -23.580875
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "2.3",
+            "agencyId": "0740"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 0177 - SP AV LIBERDADE",
+            "agencyAddress": "AV LIBERDADE 87, LIBERDADE",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01503-000",
+            "agencyLocation": {
+                "lng": -46.635298,
+                "lat": -23.554233
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "2.3",
+            "agencyId": "0177"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 8774 - SP 7 DE ABRIL REPUBLICA",
+            "agencyAddress": "R SETE DE ABRIL 230, REPUBLICA",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01044-000",
+            "agencyLocation": {
+                "lng": -46.641426,
+                "lat": -23.545547
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "2.3",
+            "agencyId": "8774"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 0151 - SP TAMANDARE",
+            "agencyAddress": "R TAMANDARE 175, LIBERDADE",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01525-001",
+            "agencyLocation": {
+                "lng": -46.632515,
+                "lat": -23.561199
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "2.4",
+            "agencyId": "0151"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 3763 - PERSONNALITE REPUBLICA",
+            "agencyAddress": "R BR DE ITAPETININGA 298, CENTRO",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01042-000",
+            "agencyLocation": {
+                "lng": -46.641602,
+                "lat": -23.543842
+            },
+            "type": "person",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "2.5",
+            "agencyId": "3763"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 0170 - SP RUA BARAO ITAPETINING",
+            "agencyAddress": "R BR DE ITAPETININGA 143, CENTRO",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01042-001",
+            "agencyLocation": {
+                "lng": -46.64053,
+                "lat": -23.544611
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "2.5",
+            "agencyId": "0170"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 0399 - SP ITACEMA",
+            "agencyAddress": "RUA PRIMAVERA 284, JARDIM PAULISTA",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01435-050",
+            "agencyLocation": {
+                "lng": -46.670231,
+                "lat": -23.580697
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "2.6",
+            "agencyId": "0399"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 0237 - SP PCA DA REPUBLICA",
+            "agencyAddress": "PCA DA REPUBLICA 490, CENTRO",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01045-000",
+            "agencyLocation": {
+                "lng": -46.642349,
+                "lat": -23.542156
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "2.6",
+            "agencyId": "0237"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 4085 - PERSONNALITGABRIELMSILVA",
+            "agencyAddress": "AL GABRIEL M SILVA 1175, JD AMERICA",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01441-000",
+            "agencyLocation": {
+                "lng": -46.680228,
+                "lat": -23.569993
+            },
+            "type": "person",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "2.6",
+            "agencyId": "4085"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 0454 - SP RUA WANDERLEY",
+            "agencyAddress": "R CARDOSO ALMEIDA 1440, PERDIZES",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "05013-001",
+            "agencyLocation": {
+                "lng": -46.67206,
+                "lat": -23.542707
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "2.6",
+            "agencyId": "0454"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 0775 - SP ACLIMACAO",
+            "agencyAddress": "AV ACLIMACAO 651, ACLIMACAO",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01531-001",
+            "agencyLocation": {
+                "lng": -46.633096,
+                "lat": -23.572201
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "2.7",
+            "agencyId": "0775"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 6331 - PERSONNALITE ACLIMACAO",
+            "agencyAddress": "AV DA ACLIMACAO 651, ACLIMACAO",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01531-001",
+            "agencyLocation": {
+                "lng": -46.632935,
+                "lat": -23.572523
+            },
+            "type": "person",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "2.7",
+            "agencyId": "6331"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 0081 - SP VILA MARIANA",
+            "agencyAddress": "R DOMINGOS DE MORAES 454, VL MARIANA",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "04010-000",
+            "agencyLocation": {
+                "lng": -46.639464,
+                "lat": -23.580756
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "2.8",
+            "agencyId": "0081"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 0173 - SP RUA PALMEIRAS",
+            "agencyAddress": "R DAS PALMEIRAS 455, STA CECILIA",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01226-010",
+            "agencyLocation": {
+                "lng": -46.653198,
+                "lat": -23.535813
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "2.9",
+            "agencyId": "0173"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 9639 - PERSONNALITE ITAIM",
+            "agencyAddress": "R JOAQUIM FLORIANO 83, ITAIM BIBI",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "04534-010",
+            "agencyLocation": {
+                "lng": -46.67104,
+                "lat": -23.583609
+            },
+            "type": "person",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "2.9",
+            "agencyId": "9639"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 0444 - SP RUA TEODORO SAMPAIO",
+            "agencyAddress": "R TEODORO SAMPAIO 1756, PINHEIROS",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "05406-150",
+            "agencyLocation": {
+                "lng": -46.684848,
+                "lat": -23.561965
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "2.9",
+            "agencyId": "0444"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 4091 - PERSONNALITE CARDOSO",
+            "agencyAddress": "R CARDOSO ALMEIDA 808, AGUA BRANCA",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "05013-001",
+            "agencyLocation": {
+                "lng": -46.668429,
+                "lat": -23.537755
+            },
+            "type": "person",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "2.9",
+            "agencyId": "4091"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 0428 - SP ALAMEDA BARROS",
+            "agencyAddress": "AL BARROS 832, STA CECILIA",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01232-000",
+            "agencyLocation": {
+                "lng": -46.658523,
+                "lat": -23.535406
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "2.9",
+            "agencyId": "0428"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 0183 - SP ITAIM",
+            "agencyAddress": "PC D GASTAO L PINTO 123, ITAIM BIBI",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "04534-060",
+            "agencyLocation": {
+                "lng": -46.670128,
+                "lat": -23.584208
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "2.9",
+            "agencyId": "0183"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 3740 - PERSONNALITE CENTRO",
+            "agencyAddress": "R BOA VISTA 176 PISO T, CENTRO",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01014-000",
+            "agencyLocation": {
+                "lng": -46.633455,
+                "lat": -23.545626
+            },
+            "type": "person",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "2.9",
+            "agencyId": "3740"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 0057 - SP CENTRAL",
+            "agencyAddress": "R BOA VISTA 176, CENTRO",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01014-000",
+            "agencyLocation": {
+                "lng": -46.633594,
+                "lat": -23.545124
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "3.0",
+            "agencyId": "0057"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 0037 - SP SANTA IFIGENIA",
+            "agencyAddress": "LGO SANTA IFIGENIA 65, STA EFIGENIA",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01207-010",
+            "agencyLocation": {
+                "lng": -46.636722,
+                "lat": -23.541506
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "3.0",
+            "agencyId": "0037"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 7066 - PERSONNALITE PERDIZES",
+            "agencyAddress": "AV SUMARE 1211, PERDIZES",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "05016-110",
+            "agencyLocation": {
+                "lng": -46.675069,
+                "lat": -23.539776
+            },
+            "type": "person",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "3.1",
+            "agencyId": "7066"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 3777 - PERSONNALITE CID JARDIM",
+            "agencyAddress": "AV CIDADE JARDIM 125, JD EUROPA",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01453-000",
+            "agencyLocation": {
+                "lng": -46.681282,
+                "lat": -23.57845
+            },
+            "type": "person",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "3.2",
+            "agencyId": "3777"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 0185 - SP AV REBOUCAS",
+            "agencyAddress": "AV REBOUCAS 2880, PINHEIROS",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "05402-500",
+            "agencyLocation": {
+                "lng": -46.687409,
+                "lat": -23.569001
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "3.3",
+            "agencyId": "0185"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 0180 - SP SENADOR QUEIROZ",
+            "agencyAddress": "AV CASPER LIBERO 356, CENTRO",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01033-000",
+            "agencyLocation": {
+                "lng": -46.63599,
+                "lat": -23.538493
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "3.3",
+            "agencyId": "0180"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 0196 - SP CIDADE JARDIM",
+            "agencyAddress": "AV CIDADE JARDIM 143, ITAIM BIBI",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01406-200",
+            "agencyLocation": {
+                "lng": -46.682292,
+                "lat": -23.579232
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "3.3",
+            "agencyId": "0196"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 0350 - SP JOAQUIM FLORIANO",
+            "agencyAddress": "R JOAQUIM FLORIANO 736, CH ITAIM",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "04534-003",
+            "agencyLocation": {
+                "lng": -46.67685,
+                "lat": -23.585219
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "3.4",
+            "agencyId": "0350"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 4055 - PERSONNALITE V N CONCEI",
+            "agencyAddress": "AV REP DO LIBANO 904, MOEMA",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "04502-001",
+            "agencyLocation": {
+                "lng": -46.671051,
+                "lat": -23.589302
+            },
+            "type": "person",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "3.4",
+            "agencyId": "4055"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 0728 - SP CANTAREIRA",
+            "agencyAddress": "R DA CANTAREIRA 371, MERCADO",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01024-100",
+            "agencyLocation": {
+                "lng": -46.629711,
+                "lat": -23.541039
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "3.5",
+            "agencyId": "0728"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 9646 - PERSONNALITE JPAULISTANO",
+            "agencyAddress": "AV BRIG FARIA LIMA 2189, JD PAULISTANO",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01452-000",
+            "agencyLocation": {
+                "lng": -46.687313,
+                "lat": -23.576112
+            },
+            "type": "person",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "3.5",
+            "agencyId": "9646"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 0445 - SP IGUATEMI",
+            "agencyAddress": "AV BRIG FARIA LIMA 2255, JD PAULISTANO",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01451-001",
+            "agencyLocation": {
+                "lng": -46.686984,
+                "lat": -23.576764
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "3.5",
+            "agencyId": "0445"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 9667 - PERSONNALITE SH IGUATEMI",
+            "agencyAddress": "AV BRIG FARIA LIMA 2232, JD PAULISTANO",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01451-000",
+            "agencyLocation": {
+                "lng": -46.687614,
+                "lat": -23.576574
+            },
+            "type": "person",
+            "time": {
+                "opening": "12:00",
+                "closure": "20:00"
+            },
+            "distance": "3.6",
+            "agencyId": "9667"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 8645 - PERSONNALITE FL 1800",
+            "agencyAddress": "AV BG FARIA LIMA 1800 LJ, JD PAULISTANO",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01451-001",
+            "agencyLocation": {
+                "lng": -46.689743,
+                "lat": -23.573275
+            },
+            "type": "person",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "3.6",
+            "agencyId": "8645"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 8725 - SP SUMARE",
+            "agencyAddress": "AV SUMARE 403, PERDIZES",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "05016-090",
+            "agencyLocation": {
+                "lng": -46.674917,
+                "lat": -23.533097
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "3.7",
+            "agencyId": "8725"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 0393 - SP FARIA LIMA",
+            "agencyAddress": "AV BRIG FARIA LIMA 1309, JD PAULISTANO",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01452-002",
+            "agencyLocation": {
+                "lng": -46.691562,
+                "lat": -23.568946
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "3.7",
+            "agencyId": "0393"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 0004 - SP PAULA SOUZA",
+            "agencyAddress": "R PAULA SOUZA 221, LUZ",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01027-001",
+            "agencyLocation": {
+                "lng": -46.630658,
+                "lat": -23.538231
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "3.7",
+            "agencyId": "0004"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 3765 - PERSONNALITE FARIA LIMA",
+            "agencyAddress": "AV BRIG FARIA LIMA 1478, JD PAULISTANO",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01451-001",
+            "agencyLocation": {
+                "lng": -46.691077,
+                "lat": -23.570946
+            },
+            "type": "person",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "3.7",
+            "agencyId": "3765"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 1666 - SP LARGO CONCORDIA",
+            "agencyAddress": "AV RANGEL PESTANA 2296, BRAS",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "03002-000",
+            "agencyLocation": {
+                "lng": -46.622868,
+                "lat": -23.546331
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "3.8",
+            "agencyId": "1666"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 0167 - SP LINS VASCONCELOS",
+            "agencyAddress": "AV LINS DE VASCONC 1808, VL DEODORO",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01538-001",
+            "agencyLocation": {
+                "lng": -46.624106,
+                "lat": -23.579012
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "3.8",
+            "agencyId": "0167"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 0187 - SP BRAS",
+            "agencyAddress": "AV RANGEL PESTANA 1244, BRAS",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "03002-000",
+            "agencyLocation": {
+                "lng": -46.622585,
+                "lat": -23.546236
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "3.8",
+            "agencyId": "0187"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 6328 - SP METRO VILA MARIANA",
+            "agencyAddress": "AV LINS VASCONCELOS 3376, VL MARIANA",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "04112-002",
+            "agencyLocation": {
+                "lng": -46.633356,
+                "lat": -23.588974
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "3.9",
+            "agencyId": "6328"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 2923 - SP VILA CLEMENTINO",
+            "agencyAddress": "AV PR ASCENDINO REIS 661, VL CLEMENTINO",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "04027-000",
+            "agencyLocation": {
+                "lng": -46.650352,
+                "lat": -23.596515
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "4.0",
+            "agencyId": "2923"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 0758 - SP AFONSO BRAS",
+            "agencyAddress": "R AFONSO BRAS 550, VL NV CONCEICAO",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "04511-001",
+            "agencyLocation": {
+                "lng": -46.668781,
+                "lat": -23.595401
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "4.0",
+            "agencyId": "0758"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 4086 - PERSONNALITE PINHEIROS",
+            "agencyAddress": "R DOS MACUNIS 32, VL MADALENA",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "05444-000",
+            "agencyLocation": {
+                "lng": -46.695831,
+                "lat": -23.559513
+            },
+            "type": "person",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "4.0",
+            "agencyId": "4086"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 3789 - PERSONNALITE JK",
+            "agencyAddress": "AV J KUBITSCHEK 1200, ITAIM BIBI",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "04543-000",
+            "agencyLocation": {
+                "lng": -46.680821,
+                "lat": -23.590174
+            },
+            "type": "person",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "4.1",
+            "agencyId": "3789"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 0152 - SP ALTO DA POMPEIA",
+            "agencyAddress": "AV ALFONSO BOVERO 1221, VL POMPEIA",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "05019-011",
+            "agencyLocation": {
+                "lng": -46.685741,
+                "lat": -23.536643
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "4.1",
+            "agencyId": "0152"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 3100 - SP AV J KUBITSCHEK",
+            "agencyAddress": "AV J KUBITSCHEK 1300, ITAIM BIBI",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "04543-000",
+            "agencyLocation": {
+                "lng": -46.681208,
+                "lat": -23.590075
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "4.1",
+            "agencyId": "3100"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 0179 - SP ESTACAO DA LUZ",
+            "agencyAddress": "R SAO CAETANO 446, LUZ",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01104-000",
+            "agencyLocation": {
+                "lng": -46.628676,
+                "lat": -23.535051
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "4.1",
+            "agencyId": "0179"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 0064 - SP BAIRRO BOM RETIRO",
+            "agencyAddress": "R DA GRACA 422, BOM RETIRO",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01125-000",
+            "agencyLocation": {
+                "lng": -46.63948,
+                "lat": -23.527711
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "4.1",
+            "agencyId": "0064"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 0742 - SP CLODOMIRO AMAZONAS",
+            "agencyAddress": "R CLODOMIRO AMAZO 1132, ITAIM",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "04537-010",
+            "agencyLocation": {
+                "lng": -46.677234,
+                "lat": -23.593373
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "4.1",
+            "agencyId": "0742"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 2926 - SP AV PEDROSO DE MORAES",
+            "agencyAddress": "AV PEDROSO MORAES 1549, PINHEIROS",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "05419-001",
+            "agencyLocation": {
+                "lng": -46.697729,
+                "lat": -23.558983
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "4.2",
+            "agencyId": "2926"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 0072 - SP RUA PIRATININGA",
+            "agencyAddress": "R PIRATININGA 870, BRAS",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "03042-000",
+            "agencyLocation": {
+                "lng": -46.616556,
+                "lat": -23.551452
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "4.2",
+            "agencyId": "0072"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 8482 - SP SHOPPING ELDORADO",
+            "agencyAddress": "AV REBOUCAS 3970 LJ 101, PINHEIROS",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "05402-600",
+            "agencyLocation": {
+                "lng": -46.695706,
+                "lat": -23.573623
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "4.2",
+            "agencyId": "8482"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 0073 - SP BAIRRO PINHEIROS",
+            "agencyAddress": "R BUTANTA 153, PINHEIROS",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "05424-140",
+            "agencyLocation": {
+                "lng": -46.697355,
+                "lat": -23.569597
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "4.3",
+            "agencyId": "0073"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 0585 - SP BARRA DO TIBAGI",
+            "agencyAddress": "R BARRA DO TIBAGI 709, BOM RETIRO",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01128-000",
+            "agencyLocation": {
+                "lng": -46.644942,
+                "lat": -23.524477
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "4.3",
+            "agencyId": "0585"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 0174 - SP LARGO DO CAMBUCI",
+            "agencyAddress": "LGO DO CAMBUCI 141, CAMBUCI",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01523-010",
+            "agencyLocation": {
+                "lng": -46.613818,
+                "lat": -23.559976
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "4.4",
+            "agencyId": "0174"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 0745 - SP BAIRRO MOEMA",
+            "agencyAddress": "AV IBIRAPUERA 1891 LJ1 2, MOEMA",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "04029-100",
+            "agencyLocation": {
+                "lng": -46.660072,
+                "lat": -23.60147
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "4.5",
+            "agencyId": "0745"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 0368 - SP ESTACAO STA CRUZ",
+            "agencyAddress": "R DOMINGOS MORAIS 2720, VL MARIANA",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "04036-100",
+            "agencyLocation": {
+                "lng": -46.636698,
+                "lat": -23.597517
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "4.5",
+            "agencyId": "0368"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 4088 - PERSONNALITE V MARIANA",
+            "agencyAddress": "RUA DOM DE MORAIS 2463, VILA MARIANA",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "04035-000",
+            "agencyLocation": {
+                "lng": -46.636453,
+                "lat": -23.597921
+            },
+            "type": "person",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "4.6",
+            "agencyId": "4088"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 0619 - SP HEITOR PENTEADO",
+            "agencyAddress": "R HEITOR PENTEADO 1994, SUMARE",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "05438-300",
+            "agencyLocation": {
+                "lng": -46.696089,
+                "lat": -23.542434
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "4.6",
+            "agencyId": "0619"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 1012 - SP EMISSARIO",
+            "agencyAddress": "AV ANTARTICA 42, AGUA BRANCA",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01141-060",
+            "agencyLocation": {
+                "lng": -46.668318,
+                "lat": -23.521619
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "4.6",
+            "agencyId": "1012"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 3755 - PERSONNALITE MOEMA",
+            "agencyAddress": "AV IBIRAPUERA 2102, MOEMA",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "04028-001",
+            "agencyLocation": {
+                "lng": -46.661727,
+                "lat": -23.602852
+            },
+            "type": "person",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "4.6",
+            "agencyId": "3755"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 1572 - SP CERRO CORA",
+            "agencyAddress": "R CERRO CORA 1777, VL ROMANA",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "05061-350",
+            "agencyLocation": {
+                "lng": -46.697258,
+                "lat": -23.540791
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "4.7",
+            "agencyId": "1572"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 3004 - PERSONNALITE INDIANOPOL",
+            "agencyAddress": "AV ACOCE 508, INDIANOPOLIS",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "04075-023",
+            "agencyLocation": {
+                "lng": -46.655885,
+                "lat": -23.604063
+            },
+            "type": "person",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "4.7",
+            "agencyId": "3004"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 0066 - SP VILA OLIMPIA",
+            "agencyAddress": "R ARAGUARI 801, VL OLIMPIA",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "04514-041",
+            "agencyLocation": {
+                "lng": -46.673961,
+                "lat": -23.602371
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "4.9",
+            "agencyId": "0066"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 6549 - PERSONNALITE VL OLIMPIA",
+            "agencyAddress": "R FUNCHAL 305, VILA OLIMPIA",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "04551-906",
+            "agencyLocation": {
+                "lng": -46.689218,
+                "lat": -23.593619
+            },
+            "type": "person",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "4.9",
+            "agencyId": "6549"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 3130 - SP VILA FUNCHAL",
+            "agencyAddress": "R OLIMPIADAS 272, VL OLIMPIA",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "04551-000",
+            "agencyLocation": {
+                "lng": -46.686457,
+                "lat": -23.595935
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "4.9",
+            "agencyId": "3130"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 2970 - SP CHACARA KLABIN",
+            "agencyAddress": "R JOAO JOSE PACHECO 91, JD VL MARIANA",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "04116-120",
+            "agencyLocation": {
+                "lng": -46.623848,
+                "lat": -23.594067
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "4.9",
+            "agencyId": "2970"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 9671 - PERSONNALITE ALFR VOLPI",
+            "agencyAddress": "AV DOS TAJURAS  93, CIDADE JARDIM",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "05670-000",
+            "agencyLocation": {
+                "lng": -46.696648,
+                "lat": -23.586237
+            },
+            "type": "person",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "4.9",
+            "agencyId": "9671"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 0285 - SP MARACATINS",
+            "agencyAddress": "AL DOS JAMARIS 330, INDIANOPOLIS",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "04078-000",
+            "agencyLocation": {
+                "lng": -46.660491,
+                "lat": -23.605797
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "5.0",
+            "agencyId": "0285"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 0175 - SP RUA ORIENTE",
+            "agencyAddress": "R MARIA MARCOLINA 591, BRAS",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "03011-001",
+            "agencyLocation": {
+                "lng": -46.616507,
+                "lat": -23.535888
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "5.0",
+            "agencyId": "0175"
+        },
+        {
+            "hasExchange": false,
+            "agencyName": "Ag. 8422 - SP CARDOSO MELLO",
+            "agencyAddress": "AV DR CARDOSO MELLO 1460, VL OLIMPIA",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "04548-005",
+            "agencyLocation": {
+                "lng": -46.674515,
+                "lat": -23.603119
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "5.0",
+            "agencyId": "8422"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 8577 - SP NOVA BELA VISTA",
+            "agencyAddress": "AV PAULISTA 1337 1343, BELA VISTA",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01311-200",
+            "agencyLocation": {
+                "lng": -46.654584,
+                "lat": -23.563009
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "0.3"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 3741 - PERSONNALITE PAULISTA",
+            "agencyAddress": "AV PAULISTA 1294, BELA VISTA",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01310-100",
+            "agencyLocation": {
+                "lng": -46.654175,
+                "lat": -23.563156
+            },
+            "type": "person",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "0.3"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 0262 - SP AV PAULISTA",
+            "agencyAddress": "AV PAULISTA 1948, BELA VISTA",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01310-200",
+            "agencyLocation": {
+                "lng": -46.658829,
+                "lat": -23.559063
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "0.3"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 9634 - PERSONNALITE CENTER 3",
+            "agencyAddress": "AV PAULISTA2064SUBS, BELA VISTA",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01310-928",
+            "agencyLocation": {
+                "lng": -46.659489,
+                "lat": -23.558452
+            },
+            "type": "person",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "0.4"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 0367 - SP TRIANON",
+            "agencyAddress": "AV PAULISTA 1159 LOJA 1, CERQUEIRA CESAR",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01311-200",
+            "agencyLocation": {
+                "lng": -46.653224,
+                "lat": -23.564145
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "0.5"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 8792 - SP SHOP CENTER 3",
+            "agencyAddress": "AV PAULISTA 2064, BELA VISTA",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01310-928",
+            "agencyLocation": {
+                "lng": -46.659616,
+                "lat": -23.558372
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "0.5"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 7380 - PERSONNALITE SP B VISTA",
+            "agencyAddress": "R PEIXOTO GOMIDE 346, JD PAULISTA",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01409-000",
+            "agencyLocation": {
+                "lng": -46.655499,
+                "lat": -23.557045
+            },
+            "type": "person",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "0.5"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 5590 - SP BELA VISTA",
+            "agencyAddress": "R PEIXOTO GOMIDE 346, JD PAULISTA",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01409-000",
+            "agencyLocation": {
+                "lng": -46.655525,
+                "lat": -23.556321
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "0.6"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 7055 - PERSONNALITE PAULIST1000",
+            "agencyAddress": "AV PAULISTA 1000, BELA VISTA",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01310-100",
+            "agencyLocation": {
+                "lng": -46.651962,
+                "lat": -23.564926
+            },
+            "type": "person",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "0.6"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 2977 - SP JARDINS",
+            "agencyAddress": "R PAMPLONA 1109, JD PAULISTA",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01405-001",
+            "agencyLocation": {
+                "lng": -46.656903,
+                "lat": -23.567004
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "0.6"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 0845 - SP JARDIM AMERICA",
+            "agencyAddress": "RUA AUGUSTA 2638 2646, CERQUEIRA CESAR",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01412-100",
+            "agencyLocation": {
+                "lng": -46.664939,
+                "lat": -23.562633
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "0.9"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 0036 - SP RUA DA CONSOLACAO",
+            "agencyAddress": "R DA CONSOLACAO 2279, CONSOLACAO",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01301-100",
+            "agencyLocation": {
+                "lng": -46.661167,
+                "lat": -23.554634
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "0.9"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 0646 - SP NOVA PAULISTA",
+            "agencyAddress": "AV PAULISTA 688, BELA VISTA",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01310-100",
+            "agencyLocation": {
+                "lng": -46.649937,
+                "lat": -23.566703
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "0.9"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 1618 - SP NOVA AUGUSTA",
+            "agencyAddress": "R AUGUSTA 796, CONSOLACAO",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01304-001",
+            "agencyLocation": {
+                "lng": -46.653476,
+                "lat": -23.552488
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "1.0"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 9385 - PERSONNALITE OSC FREIRE",
+            "agencyAddress": "R OSCAR FREIRE 553 E 561, CERQUEIRA CESAR",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01426-001",
+            "agencyLocation": {
+                "lng": -46.666504,
+                "lat": -23.565287
+            },
+            "type": "person",
+            "time": {
+                "opening": "10:00",
+                "closure": "18:00"
+            },
+            "distance": "1.1"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 4300 - SP METRO BRIGADEIRO",
+            "agencyAddress": "AV PAULISTA 459, PARAISO",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01311-000",
+            "agencyLocation": {
+                "lng": -46.648414,
+                "lat": -23.568142
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "1.1"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 0068 - SP AUGUSTA",
+            "agencyAddress": "R AUGUSTA 2857, CERQUEIRA CESAR",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01413-100",
+            "agencyLocation": {
+                "lng": -46.668092,
+                "lat": -23.565684
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "1.3"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 0188 - SP PAMPLONA",
+            "agencyAddress": "RUA ESTADOS UNIDOS 627, JD AMERICA",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01427-000",
+            "agencyLocation": {
+                "lng": -46.662545,
+                "lat": -23.572451
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "1.4"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 9642 - PERSONNALITE PAMPLONA",
+            "agencyAddress": "R MAESTRO CHIAFARELLI54, JD PAULISTA",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01432-030",
+            "agencyLocation": {
+                "lng": -46.662514,
+                "lat": -23.572929
+            },
+            "type": "person",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "1.4"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 3005 - PERSONNALITE EST UNIDOS",
+            "agencyAddress": "RUA ESTADOS UNIDOS 1721, JD AMERICA",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01427-002",
+            "agencyLocation": {
+                "lng": -46.670433,
+                "lat": -23.565409
+            },
+            "type": "person",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "1.5"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 0251 - SP BRIGADEIRO",
+            "agencyAddress": "AV BRIG LUIZ ANTON 1030, BELA VISTA",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01318-001",
+            "agencyLocation": {
+                "lng": -46.640991,
+                "lat": -23.557749
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "1.6"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 9097 - PERSONNALITE PCA B AIRES",
+            "agencyAddress": "AV ANGELICA 1596, HIGIENOPOLIS",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01228-100",
+            "agencyLocation": {
+                "lng": -46.658199,
+                "lat": -23.546701
+            },
+            "type": "person",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "1.6"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 0190 - SP BAIRRO PARAISO",
+            "agencyAddress": "PCA OSWALDO CRUZ 143, PARAISO",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "04004-070",
+            "agencyLocation": {
+                "lng": -46.644552,
+                "lat": -23.571459
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "1.7"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 0161 - SP JARDIM PAULISTA",
+            "agencyAddress": "AV BRIG LUIZ ANTON 3595, JD PAULISTA",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01401-001",
+            "agencyLocation": {
+                "lng": -46.658078,
+                "lat": -23.576251
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "1.7"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 6241 - PERSONNALITE PARAISO",
+            "agencyAddress": "PCA OSWALDO CRUZ 113, PARAISO",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "04004-070",
+            "agencyLocation": {
+                "lng": -46.644386,
+                "lat": -23.571672
+            },
+            "type": "person",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "1.7"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 0189 - SP PCA ROOSEVELT",
+            "agencyAddress": "R DA CONSOLACAO 480, CONSOLACAO",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01302-000",
+            "agencyLocation": {
+                "lng": -46.64634,
+                "lat": -23.547008
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "1.9"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 0186 - SP HIGIENOPOLIS",
+            "agencyAddress": "AV HIGIENOPOLIS 462, HIGIENOPOLIS",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01238-000",
+            "agencyLocation": {
+                "lng": -46.655173,
+                "lat": -23.544163
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "1.9"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 3756 - PERSONNALITE HIGIENOPOL",
+            "agencyAddress": "AV HIGIENOPOLIS 462 1AND, HIGIENOPOLIS",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01238-000",
+            "agencyLocation": {
+                "lng": -46.656347,
+                "lat": -23.543676
+            },
+            "type": "person",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "2.0"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 0061 - SP AV ANGELICA",
+            "agencyAddress": "AV ANGELICA 1170, HIGIENOPOLIS",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01228-100",
+            "agencyLocation": {
+                "lng": -46.656338,
+                "lat": -23.542934
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "2.0"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 1664 - SP CLINICAS",
+            "agencyAddress": "R TEOD SAMPAIO 745, PINHEIROS",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "05405-050",
+            "agencyLocation": {
+                "lng": -46.677312,
+                "lat": -23.557388
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "2.2"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 2944 - SP CHARLES MILLER",
+            "agencyAddress": "AV PACAEMBU 1947, PACAEMBU",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01234-001",
+            "agencyLocation": {
+                "lng": -46.665358,
+                "lat": -23.543053
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "2.2"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 3754 - PERSONNALITE PACAEMBU",
+            "agencyAddress": "PCA CHARLES MILLER 12, PACAEMBU",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01234-010",
+            "agencyLocation": {
+                "lng": -46.665609,
+                "lat": -23.543145
+            },
+            "type": "person",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "2.2"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 4100 - PERSONNALITE TUTOIA",
+            "agencyAddress": "R TUTOIA 1160 PS, PARAISO",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "04007-005",
+            "agencyLocation": {
+                "lng": -46.650101,
+                "lat": -23.580795
+            },
+            "type": "person",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "2.3"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 0740 - SP RUA TUTOIA",
+            "agencyAddress": "R TUTOIA 1160, PARAISO",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "04007-005",
+            "agencyLocation": {
+                "lng": -46.649944,
+                "lat": -23.580875
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "2.3"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 0177 - SP AV LIBERDADE",
+            "agencyAddress": "AV LIBERDADE 87, LIBERDADE",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01503-000",
+            "agencyLocation": {
+                "lng": -46.635298,
+                "lat": -23.554233
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "2.3"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 8774 - SP 7 DE ABRIL REPUBLICA",
+            "agencyAddress": "R SETE DE ABRIL 230, REPUBLICA",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01044-000",
+            "agencyLocation": {
+                "lng": -46.641426,
+                "lat": -23.545547
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "2.3"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 0151 - SP TAMANDARE",
+            "agencyAddress": "R TAMANDARE 175, LIBERDADE",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01525-001",
+            "agencyLocation": {
+                "lng": -46.632515,
+                "lat": -23.561199
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "2.4"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 3763 - PERSONNALITE REPUBLICA",
+            "agencyAddress": "R BR DE ITAPETININGA 298, CENTRO",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01042-000",
+            "agencyLocation": {
+                "lng": -46.641602,
+                "lat": -23.543842
+            },
+            "type": "person",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "2.5"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 0170 - SP RUA BARAO ITAPETINING",
+            "agencyAddress": "R BR DE ITAPETININGA 143, CENTRO",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01042-001",
+            "agencyLocation": {
+                "lng": -46.64053,
+                "lat": -23.544611
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "2.5"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 0399 - SP ITACEMA",
+            "agencyAddress": "RUA PRIMAVERA 284, JARDIM PAULISTA",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01435-050",
+            "agencyLocation": {
+                "lng": -46.670231,
+                "lat": -23.580697
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "2.6"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 0237 - SP PCA DA REPUBLICA",
+            "agencyAddress": "PCA DA REPUBLICA 490, CENTRO",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01045-000",
+            "agencyLocation": {
+                "lng": -46.642349,
+                "lat": -23.542156
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "2.6"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 4085 - PERSONNALITGABRIELMSILVA",
+            "agencyAddress": "AL GABRIEL M SILVA 1175, JD AMERICA",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01441-000",
+            "agencyLocation": {
+                "lng": -46.680228,
+                "lat": -23.569993
+            },
+            "type": "person",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "2.6"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 0454 - SP RUA WANDERLEY",
+            "agencyAddress": "R CARDOSO ALMEIDA 1440, PERDIZES",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "05013-001",
+            "agencyLocation": {
+                "lng": -46.67206,
+                "lat": -23.542707
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "2.6"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 0775 - SP ACLIMACAO",
+            "agencyAddress": "AV ACLIMACAO 651, ACLIMACAO",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01531-001",
+            "agencyLocation": {
+                "lng": -46.633096,
+                "lat": -23.572201
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "2.7"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 6331 - PERSONNALITE ACLIMACAO",
+            "agencyAddress": "AV DA ACLIMACAO 651, ACLIMACAO",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01531-001",
+            "agencyLocation": {
+                "lng": -46.632935,
+                "lat": -23.572523
+            },
+            "type": "person",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "2.7"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 0081 - SP VILA MARIANA",
+            "agencyAddress": "R DOMINGOS DE MORAES 454, VL MARIANA",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "04010-000",
+            "agencyLocation": {
+                "lng": -46.639464,
+                "lat": -23.580756
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "2.8"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 0173 - SP RUA PALMEIRAS",
+            "agencyAddress": "R DAS PALMEIRAS 455, STA CECILIA",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01226-010",
+            "agencyLocation": {
+                "lng": -46.653198,
+                "lat": -23.535813
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "2.9"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 9639 - PERSONNALITE ITAIM",
+            "agencyAddress": "R JOAQUIM FLORIANO 83, ITAIM BIBI",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "04534-010",
+            "agencyLocation": {
+                "lng": -46.67104,
+                "lat": -23.583609
+            },
+            "type": "person",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "2.9"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 0444 - SP RUA TEODORO SAMPAIO",
+            "agencyAddress": "R TEODORO SAMPAIO 1756, PINHEIROS",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "05406-150",
+            "agencyLocation": {
+                "lng": -46.684848,
+                "lat": -23.561965
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "2.9"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 4091 - PERSONNALITE CARDOSO",
+            "agencyAddress": "R CARDOSO ALMEIDA 808, AGUA BRANCA",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "05013-001",
+            "agencyLocation": {
+                "lng": -46.668429,
+                "lat": -23.537755
+            },
+            "type": "person",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "2.9"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 0428 - SP ALAMEDA BARROS",
+            "agencyAddress": "AL BARROS 832, STA CECILIA",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01232-000",
+            "agencyLocation": {
+                "lng": -46.658523,
+                "lat": -23.535406
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "2.9"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 0183 - SP ITAIM",
+            "agencyAddress": "PC D GASTAO L PINTO 123, ITAIM BIBI",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "04534-060",
+            "agencyLocation": {
+                "lng": -46.670128,
+                "lat": -23.584208
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "2.9"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 3740 - PERSONNALITE CENTRO",
+            "agencyAddress": "R BOA VISTA 176 PISO T, CENTRO",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01014-000",
+            "agencyLocation": {
+                "lng": -46.633455,
+                "lat": -23.545626
+            },
+            "type": "person",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "2.9"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 0057 - SP CENTRAL",
+            "agencyAddress": "R BOA VISTA 176, CENTRO",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01014-000",
+            "agencyLocation": {
+                "lng": -46.633594,
+                "lat": -23.545124
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "3.0"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 0037 - SP SANTA IFIGENIA",
+            "agencyAddress": "LGO SANTA IFIGENIA 65, STA EFIGENIA",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01207-010",
+            "agencyLocation": {
+                "lng": -46.636722,
+                "lat": -23.541506
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "3.0"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 7066 - PERSONNALITE PERDIZES",
+            "agencyAddress": "AV SUMARE 1211, PERDIZES",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "05016-110",
+            "agencyLocation": {
+                "lng": -46.675069,
+                "lat": -23.539776
+            },
+            "type": "person",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "3.1"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 3777 - PERSONNALITE CID JARDIM",
+            "agencyAddress": "AV CIDADE JARDIM 125, JD EUROPA",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01453-000",
+            "agencyLocation": {
+                "lng": -46.681282,
+                "lat": -23.57845
+            },
+            "type": "person",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "3.2"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 0185 - SP AV REBOUCAS",
+            "agencyAddress": "AV REBOUCAS 2880, PINHEIROS",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "05402-500",
+            "agencyLocation": {
+                "lng": -46.687409,
+                "lat": -23.569001
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "3.3"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 0180 - SP SENADOR QUEIROZ",
+            "agencyAddress": "AV CASPER LIBERO 356, CENTRO",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01033-000",
+            "agencyLocation": {
+                "lng": -46.63599,
+                "lat": -23.538493
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "3.3"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 0196 - SP CIDADE JARDIM",
+            "agencyAddress": "AV CIDADE JARDIM 143, ITAIM BIBI",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01406-200",
+            "agencyLocation": {
+                "lng": -46.682292,
+                "lat": -23.579232
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "3.3"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 0350 - SP JOAQUIM FLORIANO",
+            "agencyAddress": "R JOAQUIM FLORIANO 736, CH ITAIM",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "04534-003",
+            "agencyLocation": {
+                "lng": -46.67685,
+                "lat": -23.585219
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "3.4"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 4055 - PERSONNALITE V N CONCEI",
+            "agencyAddress": "AV REP DO LIBANO 904, MOEMA",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "04502-001",
+            "agencyLocation": {
+                "lng": -46.671051,
+                "lat": -23.589302
+            },
+            "type": "person",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "3.4"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 0728 - SP CANTAREIRA",
+            "agencyAddress": "R DA CANTAREIRA 371, MERCADO",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01024-100",
+            "agencyLocation": {
+                "lng": -46.629711,
+                "lat": -23.541039
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "3.5"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 9646 - PERSONNALITE JPAULISTANO",
+            "agencyAddress": "AV BRIG FARIA LIMA 2189, JD PAULISTANO",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01452-000",
+            "agencyLocation": {
+                "lng": -46.687313,
+                "lat": -23.576112
+            },
+            "type": "person",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "3.5"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 0445 - SP IGUATEMI",
+            "agencyAddress": "AV BRIG FARIA LIMA 2255, JD PAULISTANO",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01451-001",
+            "agencyLocation": {
+                "lng": -46.686984,
+                "lat": -23.576764
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "3.5"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 9667 - PERSONNALITE SH IGUATEMI",
+            "agencyAddress": "AV BRIG FARIA LIMA 2232, JD PAULISTANO",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01451-000",
+            "agencyLocation": {
+                "lng": -46.687614,
+                "lat": -23.576574
+            },
+            "type": "person",
+            "time": {
+                "opening": "12:00",
+                "closure": "20:00"
+            },
+            "distance": "3.6"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 8645 - PERSONNALITE FL 1800",
+            "agencyAddress": "AV BG FARIA LIMA 1800 LJ, JD PAULISTANO",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01451-001",
+            "agencyLocation": {
+                "lng": -46.689743,
+                "lat": -23.573275
+            },
+            "type": "person",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "3.6"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 8725 - SP SUMARE",
+            "agencyAddress": "AV SUMARE 403, PERDIZES",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "05016-090",
+            "agencyLocation": {
+                "lng": -46.674917,
+                "lat": -23.533097
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "3.7"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 0393 - SP FARIA LIMA",
+            "agencyAddress": "AV BRIG FARIA LIMA 1309, JD PAULISTANO",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01452-002",
+            "agencyLocation": {
+                "lng": -46.691562,
+                "lat": -23.568946
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "3.7"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 0004 - SP PAULA SOUZA",
+            "agencyAddress": "R PAULA SOUZA 221, LUZ",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01027-001",
+            "agencyLocation": {
+                "lng": -46.630658,
+                "lat": -23.538231
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "3.7"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 3765 - PERSONNALITE FARIA LIMA",
+            "agencyAddress": "AV BRIG FARIA LIMA 1478, JD PAULISTANO",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01451-001",
+            "agencyLocation": {
+                "lng": -46.691077,
+                "lat": -23.570946
+            },
+            "type": "person",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "3.7"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 1666 - SP LARGO CONCORDIA",
+            "agencyAddress": "AV RANGEL PESTANA 2296, BRAS",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "03002-000",
+            "agencyLocation": {
+                "lng": -46.622868,
+                "lat": -23.546331
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "3.8"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 0187 - SP BRAS",
+            "agencyAddress": "AV RANGEL PESTANA 1244, BRAS",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "03002-000",
+            "agencyLocation": {
+                "lng": -46.622585,
+                "lat": -23.546236
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "3.8"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 6328 - SP METRO VILA MARIANA",
+            "agencyAddress": "AV LINS VASCONCELOS 3376, VL MARIANA",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "04112-002",
+            "agencyLocation": {
+                "lng": -46.633356,
+                "lat": -23.588974
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "3.9"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 2923 - SP VILA CLEMENTINO",
+            "agencyAddress": "AV PR ASCENDINO REIS 661, VL CLEMENTINO",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "04027-000",
+            "agencyLocation": {
+                "lng": -46.650352,
+                "lat": -23.596515
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "4.0"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 0758 - SP AFONSO BRAS",
+            "agencyAddress": "R AFONSO BRAS 550, VL NV CONCEICAO",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "04511-001",
+            "agencyLocation": {
+                "lng": -46.668781,
+                "lat": -23.595401
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "4.0"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 4086 - PERSONNALITE PINHEIROS",
+            "agencyAddress": "R DOS MACUNIS 32, VL MADALENA",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "05444-000",
+            "agencyLocation": {
+                "lng": -46.695831,
+                "lat": -23.559513
+            },
+            "type": "person",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "4.0"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 3789 - PERSONNALITE JK",
+            "agencyAddress": "AV J KUBITSCHEK 1200, ITAIM BIBI",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "04543-000",
+            "agencyLocation": {
+                "lng": -46.680821,
+                "lat": -23.590174
+            },
+            "type": "person",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "4.1"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 0152 - SP ALTO DA POMPEIA",
+            "agencyAddress": "AV ALFONSO BOVERO 1221, VL POMPEIA",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "05019-011",
+            "agencyLocation": {
+                "lng": -46.685741,
+                "lat": -23.536643
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "4.1"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 3100 - SP AV J KUBITSCHEK",
+            "agencyAddress": "AV J KUBITSCHEK 1300, ITAIM BIBI",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "04543-000",
+            "agencyLocation": {
+                "lng": -46.681208,
+                "lat": -23.590075
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "4.1"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 0179 - SP ESTACAO DA LUZ",
+            "agencyAddress": "R SAO CAETANO 446, LUZ",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01104-000",
+            "agencyLocation": {
+                "lng": -46.628676,
+                "lat": -23.535051
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "4.1"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 0064 - SP BAIRRO BOM RETIRO",
+            "agencyAddress": "R DA GRACA 422, BOM RETIRO",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01125-000",
+            "agencyLocation": {
+                "lng": -46.63948,
+                "lat": -23.527711
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "4.1"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 0742 - SP CLODOMIRO AMAZONAS",
+            "agencyAddress": "R CLODOMIRO AMAZO 1132, ITAIM",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "04537-010",
+            "agencyLocation": {
+                "lng": -46.677234,
+                "lat": -23.593373
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "4.1"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 2926 - SP AV PEDROSO DE MORAES",
+            "agencyAddress": "AV PEDROSO MORAES 1549, PINHEIROS",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "05419-001",
+            "agencyLocation": {
+                "lng": -46.697729,
+                "lat": -23.558983
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "4.2"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 0072 - SP RUA PIRATININGA",
+            "agencyAddress": "R PIRATININGA 870, BRAS",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "03042-000",
+            "agencyLocation": {
+                "lng": -46.616556,
+                "lat": -23.551452
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "4.2"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 8482 - SP SHOPPING ELDORADO",
+            "agencyAddress": "AV REBOUCAS 3970 LJ 101, PINHEIROS",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "05402-600",
+            "agencyLocation": {
+                "lng": -46.695706,
+                "lat": -23.573623
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "4.2"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 0073 - SP BAIRRO PINHEIROS",
+            "agencyAddress": "R BUTANTA 153, PINHEIROS",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "05424-140",
+            "agencyLocation": {
+                "lng": -46.697355,
+                "lat": -23.569597
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "4.3"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 0585 - SP BARRA DO TIBAGI",
+            "agencyAddress": "R BARRA DO TIBAGI 709, BOM RETIRO",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01128-000",
+            "agencyLocation": {
+                "lng": -46.644942,
+                "lat": -23.524477
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "4.3"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 0174 - SP LARGO DO CAMBUCI",
+            "agencyAddress": "LGO DO CAMBUCI 141, CAMBUCI",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01523-010",
+            "agencyLocation": {
+                "lng": -46.613818,
+                "lat": -23.559976
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "4.4"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 0745 - SP BAIRRO MOEMA",
+            "agencyAddress": "AV IBIRAPUERA 1891 LJ1 2, MOEMA",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "04029-100",
+            "agencyLocation": {
+                "lng": -46.660072,
+                "lat": -23.60147
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "4.5"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 0368 - SP ESTACAO STA CRUZ",
+            "agencyAddress": "R DOMINGOS MORAIS 2720, VL MARIANA",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "04036-100",
+            "agencyLocation": {
+                "lng": -46.636698,
+                "lat": -23.597517
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "4.5"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 4088 - PERSONNALITE V MARIANA",
+            "agencyAddress": "RUA DOM DE MORAIS 2463, VILA MARIANA",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "04035-000",
+            "agencyLocation": {
+                "lng": -46.636453,
+                "lat": -23.597921
+            },
+            "type": "person",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "4.6"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 0619 - SP HEITOR PENTEADO",
+            "agencyAddress": "R HEITOR PENTEADO 1994, SUMARE",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "05438-300",
+            "agencyLocation": {
+                "lng": -46.696089,
+                "lat": -23.542434
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "4.6"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 1012 - SP EMISSARIO",
+            "agencyAddress": "AV ANTARTICA 42, AGUA BRANCA",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "01141-060",
+            "agencyLocation": {
+                "lng": -46.668318,
+                "lat": -23.521619
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "4.6"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 3755 - PERSONNALITE MOEMA",
+            "agencyAddress": "AV IBIRAPUERA 2102, MOEMA",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "04028-001",
+            "agencyLocation": {
+                "lng": -46.661727,
+                "lat": -23.602852
+            },
+            "type": "person",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "4.6"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 1572 - SP CERRO CORA",
+            "agencyAddress": "R CERRO CORA 1777, VL ROMANA",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "05061-350",
+            "agencyLocation": {
+                "lng": -46.697258,
+                "lat": -23.540791
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "4.7"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 3004 - PERSONNALITE INDIANOPOL",
+            "agencyAddress": "AV ACOCE 508, INDIANOPOLIS",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "04075-023",
+            "agencyLocation": {
+                "lng": -46.655885,
+                "lat": -23.604063
+            },
+            "type": "person",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "4.7"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 0066 - SP VILA OLIMPIA",
+            "agencyAddress": "R ARAGUARI 801, VL OLIMPIA",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "04514-041",
+            "agencyLocation": {
+                "lng": -46.673961,
+                "lat": -23.602371
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "4.9"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 6549 - PERSONNALITE VL OLIMPIA",
+            "agencyAddress": "R FUNCHAL 305, VILA OLIMPIA",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "04551-906",
+            "agencyLocation": {
+                "lng": -46.689218,
+                "lat": -23.593619
+            },
+            "type": "person",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "4.9"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 3130 - SP VILA FUNCHAL",
+            "agencyAddress": "R OLIMPIADAS 272, VL OLIMPIA",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "04551-000",
+            "agencyLocation": {
+                "lng": -46.686457,
+                "lat": -23.595935
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "4.9"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 2970 - SP CHACARA KLABIN",
+            "agencyAddress": "R JOAO JOSE PACHECO 91, JD VL MARIANA",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "04116-120",
+            "agencyLocation": {
+                "lng": -46.623848,
+                "lat": -23.594067
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "4.9"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 9671 - PERSONNALITE ALFR VOLPI",
+            "agencyAddress": "AV DOS TAJURAS  93, CIDADE JARDIM",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "05670-000",
+            "agencyLocation": {
+                "lng": -46.696648,
+                "lat": -23.586237
+            },
+            "type": "person",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "4.9"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 0285 - SP MARACATINS",
+            "agencyAddress": "AL DOS JAMARIS 330, INDIANOPOLIS",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "04078-000",
+            "agencyLocation": {
+                "lng": -46.660491,
+                "lat": -23.605797
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "5.0"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 0175 - SP RUA ORIENTE",
+            "agencyAddress": "R MARIA MARCOLINA 591, BRAS",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "03011-001",
+            "agencyLocation": {
+                "lng": -46.616507,
+                "lat": -23.535888
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "5.0"
+        },
+        {
+            "hasExchange": true,
+            "agencyName": "Ag. 8422 - SP CARDOSO MELLO",
+            "agencyAddress": "AV DR CARDOSO MELLO 1460, VL OLIMPIA",
+            "cityUF": "SAO PAULO - SP",
+            "zipCode": "04548-005",
+            "agencyLocation": {
+                "lng": -46.674515,
+                "lat": -23.603119
+            },
+            "type": "varejo",
+            "time": {
+                "opening": "10:00",
+                "closure": "16:00"
+            },
+            "distance": "5.0"
+        }
+    ]

@@ -1,0 +1,5 @@
+node_modules
+volume
+dist
+.terraform*
+terraform.tfstate*
